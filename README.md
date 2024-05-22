@@ -1,1 +1,2 @@
 # mc-addresses
+print "hej"
