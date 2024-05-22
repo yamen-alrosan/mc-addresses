@@ -1,2 +1,2 @@
 # mc-addresses
-print "hej"
+print ("hej")
